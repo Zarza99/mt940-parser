@@ -1,0 +1,21 @@
+﻿Archivo,Fecha,Signo,Importe,Descripcion
+mt940_example.txt,20250102,C,1200.0,Depósito nómina mensual
+mt940_example.txt,20250103,D,300.0,Pago tarjeta de crédito
+mt940_example.txt,20250104,D,150.0,Compra supermercado
+mt940_example.txt,20250105,C,500.0,Transferencia recibida Juan Pérez
+mt940_example.txt,20250106,D,200.0,Gasolina estación XX
+mt940_example.txt,20250107,D,100.0,Farmacia MedicPlus
+mt940_example.txt,20250108,C,300.0,Reembolso gastos
+mt940_example.txt,20250109,D,400.0,Pago servicios de luz
+mt940_example.txt,20250110,D,250.0,Pago servicio de internet
+mt940_example.txt,20250111,C,800.0,Transferencia cliente Acme Corp
+mt940_example2.txt,20250902,D,500.0,/TRF/000001//Pago factura luz
+mt940_example2.txt,20250902,C,1200.0,/CSH/000002//Ingreso en efectivo
+mt940_example2.txt,20250903,D,250.0,/TRF/000003//Pago supermercado
+mt940_example2.txt,20250903,D,75.5,/TRF/000004//Suscripción streaming
+mt940_example2.txt,20250904,C,2000.0,/CSH/000005//Depósito nómina
+mt940_example2.txt,20250905,D,300.0,/TRF/000006//Pago tarjeta crédito
+mt940_example2.txt,20250905,D,125.0,/TRF/000007//Gasolina vehículo
+mt940_example2.txt,20250906,C,450.0,/CSH/000008//Transferencia recibida
+mt940_example2.txt,20250907,D,600.0,/TRF/000009//Compra en línea
+mt940_example2.txt,20250907,D,150.0,/TRF/000010//Restaurante
