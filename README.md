@@ -30,7 +30,7 @@ procesa los registros de transacciones y genera un archivo CSV que puede abrirse
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/Zarza99/mt940-to-csv.git
+git clone https://github.com/Zarza99/mt940-parser.git
 ```
 
 Instala la dependencia necesaria:
