@@ -1,6 +1,6 @@
 """
 Proyecto: Procesador de archivos MT940
-Autor: Ing. Jhonatan Zarza
+Autor: Jhonatan Zarza
 Fecha: Septiembre 2025
 
 Descripción:
@@ -54,7 +54,7 @@ for archivo in archivos:
         except Exception as e:
             print(f"Error procesando movimiento en {archivo}: {mov} -> {e}")
 
-#Convertir a DataFrame y exportar usando UTF-8 con BOM para Excel
+#Exportar todas las transacciones a un archivo CSV
 df = pd.DataFrame(todas_filas)
 df.to_csv("extractos_consolidados.csv", index=False, encoding="utf-8-sig")
 
